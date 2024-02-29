@@ -7,5 +7,5 @@ Exercise01-DSA_LAB > src > Main.java
 **Driver class is contained within the main file**
 
 ## 📸 SCREENSHOT
-<img src="./ReadmeFiles/codeScreenshot.png" width="600">
-<img src="./ReadmeFiles/outputScreenshot.png" width="800">
+<img src="./readmeFiles/codeScreenshot.png" width="600">
+<img src="./readmeFiles/outputScreenshot.png" width="800">
