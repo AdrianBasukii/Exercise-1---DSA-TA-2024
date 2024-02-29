@@ -12,7 +12,7 @@ Exercise01-DSA_LAB > src > Main.java
 
 ## 📙 CODE EXPLANATION 
 
-### Animal CLass
+### Animal Class
 Animal class is an abstract class which means that it cannot be used to create objects. It must be inherited from another class to be accessed. In this case, it is inherited by the Dog and Ant class.
 
 This class contains two methods:
